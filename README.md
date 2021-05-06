@@ -1,5 +1,2 @@
-### Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-
-
+# ProyectoINGS
+Proyecto de final de semestre de ingenieria de software 
