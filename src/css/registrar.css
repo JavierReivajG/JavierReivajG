@@ -30,6 +30,7 @@ main .main-container {
     background-color: white;
     opacity: 95%;
     width: 50%;
+    min-width: 340px;
     padding-top: 2%;
 }
 

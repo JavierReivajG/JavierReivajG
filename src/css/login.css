@@ -27,9 +27,9 @@ main .main-container {
     box-shadow: 10px 6px 10px black;
     margin-top: 10%;
     border-radius: 5px;
-    background-color: white;
+    background-color: rgb(22, 5, 5);
     opacity: 95%;
-    min-width: 390px;
+    min-width: 340px;
     width: 50%;
     padding-top: 2%;
 }
