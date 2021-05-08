@@ -25,7 +25,7 @@ main {
 
 main .main-container {
     box-shadow: 10px 6px 10px rgb(0, 0, 0);
-    margin-top: 10%;
+    margin-top: 3%;
     border-radius: 5px;
     background-color: white;
     opacity: 95%;
@@ -48,7 +48,7 @@ main .main-container {
  .crear-cuenta {
      color:  blue;
      list-style: none;
-     font-size: 4rem;
+     font-size: 5rem;
      font-weight: 400;
      margin-bottom: 3%;
 
@@ -63,7 +63,7 @@ main .main-container {
  .volveralinicio a {
      text-decoration: none;
      color: black;
-     font-size: 1.5rem;
+     font-size: 2rem;
      font-weight: 500;
  }
 
@@ -77,7 +77,7 @@ main .main-container {
     background: transparent;
     outline: none;  
     color: rgb(0, 0, 0);
-    font-size: 1.7rem;
+    font-size: 2.1rem;
     margin-top: 2%;
     width: 35%;
     
@@ -95,7 +95,7 @@ main .main-container {
 
 
 .text {
-    font-size: 1.7rem;
+    font-size: 2.1rem;
     color: black;
     list-style: none;
     margin-top: 1.4%;
@@ -111,7 +111,7 @@ main .main-container {
     border: none;
     outline: none;
     background: transparent;
-    font-size: 1.5rem;
+    font-size: 2rem;
 }
 
 .container-center--footer button {
@@ -121,6 +121,7 @@ main .main-container {
     margin: 10px;
     padding: 6px 20px;
     border-radius: 3px;
+    font-size: 2rem;
     font-weight: 600;
 }
 
@@ -138,14 +139,19 @@ main .main-container {
 }
 
 .inicio-componente {
+    display: flex;
     float: right;
     justify-content: flex-start;
+}
+
+.header-section--container img {
+    width: 10%;
 }
 
 
 .header-section  a {
     text-decoration: none;
-    font-size: 5rem;
+    font-size: 4rem;
     color: white;
     font-weight: 600;
     list-style: none;
