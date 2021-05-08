@@ -29,6 +29,7 @@ main .main-container {
     border-radius: 5px;
     background-color: white;
     opacity: 95%;
+    min-width: 390px;
     width: 50%;
     padding-top: 2%;
 }
@@ -79,6 +80,7 @@ main .main-container {
     font-size: 2.1rem;
     margin-top: 2%;
     width: 35%;
+    min-width: 200px;
     
  }
 
